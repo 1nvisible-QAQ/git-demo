@@ -1,4 +1,4 @@
 hello git! 123456789
 hello git! 234567890
 hello git! 345678901
-hello git!
+hello git! hot-fix
